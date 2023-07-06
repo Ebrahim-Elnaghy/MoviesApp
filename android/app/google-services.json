@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831511576444",
+    "project_id": "movies-app-6f9af",
+    "storage_bucket": "movies-app-6f9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831511576444:android:e5cdb47919738ab0526ef9",
+        "android_client_info": {
+          "package_name": "com.elnaghy.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831511576444-pkn1h9gtus1knaktg8iskqklgkeadttv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDlD1-JzJllrCvggpvhWwnLPtjjHxVkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831511576444-pkn1h9gtus1knaktg8iskqklgkeadttv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
